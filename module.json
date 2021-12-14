@@ -1,0 +1,23 @@
+{
+  "name": "ru-ru",
+  "title": "Russian Translation For Call of Chtulhu 7 (Unofficial) | Русский перевод для Зова Ктулху (неофициального)",
+  "description": "<p>Модуль перевода добавляет русский язык в систему  Call of Cthulhu 7th Edition (Unofficial)",
+  "author": "orif#3322",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.5.0",
+  "dependencies": [
+    {
+      "name": "CoC7",
+      "type": "system"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "ru",
+      "path": "translate/systems/CoC7.json",
+      "system": "CoC7"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/Phenomen/foundry-vtt-ru/master/module.json",
+  "download": "https://github.com/Phenomen/foundry-vtt-ru/archive/refs/heads/master.zip"
+}
