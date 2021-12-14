@@ -9,7 +9,7 @@
     {
       "name": "CoC7",
       "type": "system",
-      "manifest": "https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT/blob/develop/system.json"
+      "manifest": "https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT/releases/latest/download/system.json"
     }
   ],
   "languages": [
