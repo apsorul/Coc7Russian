@@ -8,7 +8,8 @@
   "dependencies": [
     {
       "name": "CoC7",
-      "type": "system"
+      "type": "system",
+      "manifest": "https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT/releases/latest/download/system.json"
     }
   ],
   "languages": [
