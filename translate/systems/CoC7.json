@@ -116,7 +116,7 @@
     "CoC7.Blind": "слепая",
     "CoC7.Label": "Ярлык",
     "CoC7.Icon": "Иконка",
-    "CoC7.Check": "Проверка",
+    "CoC7.Check": "Испатыние",
     "CoC7.ItemWeapon": "Предмет (оружие)",
     "CoC7.AttacksPerRound": "Атак в ход",
 
@@ -173,7 +173,7 @@
     "CoC7.KeeperSentDecoy": "Фальшивый бросок выслан персонажам",
     "CoC7.FakeRoll": "Отправить персонажам фальшивый бросок",
 
-    "CoC7.ConstitutionCheck": "Проверка телосложения",
+    "CoC7.ConstitutionCheck": "Испатыние телосложения",
 
     "CoC7.SanDataSelectionWindow": "Оконо выбоора потери САН",
     "CoC7.BonusSelectionWindow": "Окно выбора бонуса",
@@ -199,13 +199,13 @@
     "CoC7.SuccesLevelHint": "{значение} уровня(ей) успеха",
     "CoC7.FailureLevelHint": "Провалено на {value} уровня",
     "CoC7.CombinedRollCard": "Скомбинировать card броска",
-    "CoC7.OpposedRollCard": "Встречная проверка card",
+    "CoC7.OpposedRollCard": "Встречная испатыние card",
     "CoC7.CombinedAnyHint": "Любой ролл должен быть успешен",
     "CoC7.CombinedAllHint": "Все роллы должны быть успешными",
     "CoC7.CloseCard": "Закрыть карту",
 
-    "CoC7.CheckResult": "{name} проверка ({value}%) - {difficulty} сложность",
-    "CoC7.ItemCheckResult": "{item} - {skill} проверка ({value}%) - {difficulty} сложность",
+    "CoC7.CheckResult": "{name} испатыние ({value}%) - {difficulty} сложность",
+    "CoC7.ItemCheckResult": "{item} - {skill} испатыние ({value}%) - {difficulty} сложность",
     "CoC7.CheckRawValue": "({rawvalue}%) - {difficulty} сложность",
 
     "CoC7.ArmorAbsorbsDamage": "Броня поглащает весь урон",
@@ -484,8 +484,8 @@
 
     "CoC7.InvoluntaryAction": "Непроизвольное действие",
     "CoC7.InvoluntaryActionPerfomed": "Непроизвольное действие совершено",
-    "CoC7.SanityCheck": "Проверка Рассудка",
-    "CoC7.IntCheck": "Проверка Интеллекта",
+    "CoC7.SanityCheck": "Испатыние рассудка",
+    "CoC7.IntCheck": "Испатыние интеллекта",
     "CoC7.NoSanLoss": "Здравомыслие сохранено",
     "CoC7.SANLoss": "РАС потерян",
     "CoC7.SanityCheckPerformed": "Вы пережили травмирующее событие.",
