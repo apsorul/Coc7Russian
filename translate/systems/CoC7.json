@@ -191,7 +191,7 @@
     "CoC7.RollDifficultyUnknown": "Слепая",
     "CoC7.RollDifficultyRegular": "Обычная",
     "CoC7.RollDifficultyHard": "Трудная",
-    "CoC7.RollDifficultyExtreme": "Чрезвычайня",
+    "CoC7.RollDifficultyExtreme": "Чрезвычайная",
     "CoC7.RollDifficultyCritical": "Критическая",
     "CoC7.RollResult.LuckSpendText": "{luckAmount} удачи потраченно, {successLevel} успех",
     "CoC7.RollDice": "Бросить",
